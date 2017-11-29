@@ -33,4 +33,4 @@ Avatar =media.Movies("Avatar",
 
 
 movies=[ThorRagnarok,avengersinfinity,SpiderManHomeComing,TheDarkKnight,toyStory,Avatar]
-MovieWebStore.open_movies_page(movies)
+index.open_movies_page(movies)
