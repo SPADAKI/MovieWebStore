@@ -19,6 +19,7 @@ main_page_head = '''
     <style type="text/css" media="screen">
         body {
             padding-top: 80px;
+            background-image: url("https://wallpaperscraft.com/image/downtown_chicago_illinois_usa_59126_1920x1080.jpg")
         }
         #trailer .modal-dialog {
             margin-top: 200px;
