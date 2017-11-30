@@ -20,6 +20,9 @@ main_page_head = '''
         body {
             padding-top: 80px;
             background-image: url("https://wallpaperscraft.com/image/downtown_chicago_illinois_usa_59126_1920x1080.jpg");
+<<<<<<< HEAD
+=======
+            >>>>>>> d7989a2189147c71bad9c07fd4b5a6d77b0d439b
         }
         #trailer .modal-dialog {
             margin-top: 200px;

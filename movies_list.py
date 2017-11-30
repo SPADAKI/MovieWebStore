@@ -27,10 +27,12 @@ toyStory =media.Movies("Toy Story",
 Avatar =media.Movies("Avatar",
                           "A story of a Marine on an Alien planet",
                           "http://feoamante.com/Movies/A/Avatar/avatar.jpg",
-                          "https://youtu.be/5PSNL1qE6VY?t=41")
+                          "https://youtu.be/aVdO-cx-McA")
 
 
 
 
 movies=[ThorRagnarok,avengersinfinity,SpiderManHomeComing,TheDarkKnight,toyStory,Avatar]
 MovieWebStore.open_movies_page(movies)
+print(media.Movies.VALID_RATINGS)
+
